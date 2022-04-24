@@ -1,0 +1,15 @@
+.signinBox1{
+ 
+    /* background-color: #FFFFFF; */
+    /* border: 1px solid rgba(0, 0, 0, 0.1); */
+ }
+ 
+ .signinBox1 a{
+    color: green;
+ } 
+ 
+ .showPwd{
+   cursor: pointer;
+   right: 10px;
+   top: 36px;
+ }
